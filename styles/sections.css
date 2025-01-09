@@ -98,8 +98,8 @@ section header {
 
   img {
     width: 176px;
-    aspect-ratio: 1/1;
     /*essa tag deixa o quadrado perfeito.*/
+    aspect-ratio: 1/1;
     object-fit: cover;
   }
 
